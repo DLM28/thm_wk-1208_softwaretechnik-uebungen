@@ -1,4 +1,4 @@
-# Steckbrief <dlm28>
+# Steckbrief <DLM28>
 
 ## Studiengang und Semester
 

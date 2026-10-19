@@ -10,4 +10,4 @@ Wirtschaftsinformatik 3.Semester
 
 ## Das erwarte ich von der Veranstaltung
 
-…Verbesserung der Programmierskills und Perspektiven durch Ki einsatz 
+…Verbesserung der Programmierskills und Perspektiven durch Ki einsatz
